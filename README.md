@@ -1,6 +1,6 @@
 # Selkie.Services.Common.Dto
 
-The Selkie.Services.Common.Dto project creates a NuGet package. The package contains common DTO classes used by Selkie services, e.g. ServiceConsole, ServiceMain, ServiceManager... 
+The Selkie.Services.Common.Dto project creates a NuGet package. The package contains common DTO classes used by Selkie services: e.g. ServiceConsole, ServiceMain, ServiceManager... 
 
 ### Selkie Projects
 
