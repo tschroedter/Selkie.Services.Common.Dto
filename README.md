@@ -2,8 +2,6 @@
 
 The Selkie.Services.Common.Dto project creates a NuGet package. The package contains common DTO classes used by Selkie services, e.g. ServiceConsole, ServiceMain, ServiceManager... 
 
-The project started as a little ant colony optimization application. Over time the application grew and was split up into different services which communicate via RabbitMQ. The whole project is used to try out TDD, BDD, DRY and SOLID.
-
 ### Selkie Projects
 
 * [Selkie](https://github.com/tschroedter/Selkie)
@@ -16,6 +14,7 @@ The project started as a little ant colony optimization application. Over time t
 * [Selkie Services ACO](https://github.com/tschroedter/Selkie.Services.Aco)
 * [Selkie Services ACO Common](https://github.com/tschroedter/Selkie.Services.Aco.Common)
 * [Selkie Services Common](https://github.com/tschroedter/Selkie.Services.Common)
+* [Selkie Services Common Dto](https://github.com/tschroedter/Selkie.Services.Common.Dto)
 * [Selkie Services Lines](https://github.com/tschroedter/Selkie.Services.Lines)
 * [Selkie Services Lines Common](https://github.com/tschroedter/Selkie.Services.Lines.Common)
 * [Selkie Services Monitor](https://github.com/tschroedter/Selkie.Services.Monitor)
