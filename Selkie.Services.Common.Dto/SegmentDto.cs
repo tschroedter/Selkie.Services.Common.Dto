@@ -2,6 +2,7 @@
 
 namespace Selkie.Services.Common.Dto
 {
+    [UsedImplicitly]
     public class SegmentDto
     {
         [NotNull]
