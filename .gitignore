@@ -185,3 +185,4 @@ UpgradeLog*.htm
 FakesAssemblies/
 *.bak
 NuGet.Selkie.Services.Aco/lib/net45/
+/.vs/Selkie.Services.Common.Dto/v15/Server/sqlite3

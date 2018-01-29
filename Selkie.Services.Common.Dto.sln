@@ -1,13 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.40629.0
+# Visual Studio 15
+VisualStudioVersion = 15.0.27205.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{47ED9E31-5480-453E-906B-A0688C4D7061}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NuGet.Selkie.Services.Common.Dto", "NuGet.Selkie.Services.Common.Dto\NuGet.Selkie.Services.Common.Dto.csproj", "{8D39025B-1B33-42BA-99BD-2C8E595871AD}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Selkie.Services.Common.Dto", "Selkie.Services.Common.Dto\Selkie.Services.Common.Dto.csproj", "{5FF3C2F7-B33A-4D45-BA21-09404F4F8EAA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core2.Selkie.Services.Common.Dto", "Core2.Selkie.Services.Common.Dto\Core2.Selkie.Services.Common.Dto.csproj", "{34B2D351-6844-43C0-A96A-2FFD2BB5D8FC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,16 +13,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{8D39025B-1B33-42BA-99BD-2C8E595871AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8D39025B-1B33-42BA-99BD-2C8E595871AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8D39025B-1B33-42BA-99BD-2C8E595871AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8D39025B-1B33-42BA-99BD-2C8E595871AD}.Release|Any CPU.Build.0 = Release|Any CPU
-		{5FF3C2F7-B33A-4D45-BA21-09404F4F8EAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5FF3C2F7-B33A-4D45-BA21-09404F4F8EAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5FF3C2F7-B33A-4D45-BA21-09404F4F8EAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5FF3C2F7-B33A-4D45-BA21-09404F4F8EAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34B2D351-6844-43C0-A96A-2FFD2BB5D8FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34B2D351-6844-43C0-A96A-2FFD2BB5D8FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34B2D351-6844-43C0-A96A-2FFD2BB5D8FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34B2D351-6844-43C0-A96A-2FFD2BB5D8FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B738CD9-8F6A-4587-8547-604B06308616}
 	EndGlobalSection
 EndGlobal
